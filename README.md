@@ -2,6 +2,8 @@
 
 Improved colored diff
 
+![screenshot](http://www.jefftk.com/xicdiff-css-demo-tall.png.pagespeed.ic.kbhGK7wTVs.webp)
+
 ## Installation
 
 Download the [latest](https://github.com/jeffkaufman/icdiff/releases) `icdiff` binary and put it on your PATH.
